@@ -118,6 +118,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Template"
+    }
+  },
+  "defaultProject": "Template",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
